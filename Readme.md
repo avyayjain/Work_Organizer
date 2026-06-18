@@ -1,9 +1,9 @@
-# This is Todo application system 
+# This is Work Organizer system 
 
 ## Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/avyayjain/todo_application.git
+git clone https://github.com/avyayjain/Work_Organize.git
 ```
 
 ### 2. Install the requirements to install the requirements run the following command
